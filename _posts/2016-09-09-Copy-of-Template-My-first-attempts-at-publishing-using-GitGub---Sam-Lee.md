@@ -1,5 +1,5 @@
 ---
-title: Copy of Template My first attempts at publishing using GitGub - Sam Lee
+title: Blog 1
 layout: post
 author: sam.lee
 permalink: /copy-of-template-my-first-attempts-at-publishing-using-gitgub---sam-lee/
