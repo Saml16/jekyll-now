@@ -19,7 +19,7 @@ html {
 
 body {
 	background: url(http://wallpaper.zone/img/3235462.jpg)
-	background-attatchment: fixed;
+	
 	
 	
   font: 18px/1.4 $helvetica;
@@ -286,7 +286,8 @@ nav {
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
 }
-
+	table, th, td }
+        border:1px solid white; 
 footer {
   padding: 20px 0;
   text-align: center;
