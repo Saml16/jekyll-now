@@ -18,8 +18,10 @@ html {
 }
 
 body {
-	background: url(http://wallpaper.zone/img/3235462.jpg);
-		font; 18px/1.4 $helvetica;
+	background: url(http://wallpaper.zone/img/3235462.jpg)
+	
+	;
+  font: 18px/1.4 $helvetica;
   color: $darkGray;
 background-color: lightblue;
 	color: white;
@@ -31,8 +33,7 @@ h1 {
 }
 
 .container {
-	background-color: rgba(163, 163, 194, 0.4)
-  margin; 
+  margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
@@ -284,7 +285,7 @@ nav {
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
 }
-	  
+
 footer {
   padding: 20px 0;
   text-align: center;
@@ -294,4 +295,4 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-	}}
+}
